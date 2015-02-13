@@ -1,4 +1,4 @@
-//package com.faraaz.proj;
+
 public interface Simple2DInterface {
 
   /** Reset every element to 0. */

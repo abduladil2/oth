@@ -1,4 +1,3 @@
-//package com.faraaz.proj;
 
 import java.awt.Color;
 import java.awt.Graphics;

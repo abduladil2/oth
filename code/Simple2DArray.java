@@ -1,4 +1,4 @@
-//package com.faraaz.proj;
+
 public class Simple2DArray implements Simple2DInterface {
 
   public static final int DEFAULT_BOARD_DIMENSION = 8;
