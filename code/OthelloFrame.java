@@ -54,7 +54,7 @@ public class OthelloFrame extends JFrame {
     // final setup
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     setSize(FRAME_WIDTH, FRAME_HEIGHT);
-    setTitle("Wanna play Othello");
+    setTitle("Wanna be Othello");
     setVisible(true);
   }
 
