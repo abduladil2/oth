@@ -1,4 +1,4 @@
-
+//
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
@@ -21,7 +21,7 @@ public class OthelloFrame extends JFrame {
 
   public OthelloFrame() {
     // create grid and add to frame
-    Simple2DInterface grid = 
+    Simple2DInterface grid =
         new Simple2DArray(Simple2DArray.DEFAULT_BOARD_DIMENSION, Simple2DArray.DEFAULT_BOARD_DIMENSION);
     int halfWidth = grid.getNumberOfColumns() / 2;
     int halfHeight = grid.getNumberOfRows() / 2;
